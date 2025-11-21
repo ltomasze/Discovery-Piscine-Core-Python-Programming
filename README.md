@@ -20,32 +20,32 @@ The repository is divided into modules, each containing a series of exercises (`
     <tr>
       <td align="center"><strong>Module 4</strong></td>
       <td align="left">Basics of input/output, handling data types (<code>float</code>, <code>int</code>), string operations (<code>upper</code>, <code>swapcase</code>).</td>
-      <td align="center"><a href="./module4">Go</a></td>
+      <td align="center"><a href="/module4">Go</a></td>
     </tr>
     <tr>
       <td align="center"><strong>Module 5</strong></td>
       <td align="left">Working with lists (arrays), introduction to sets (<code>set</code>) for removing duplicates, handling command-line arguments (<code>sys.argv</code>).</td>
-      <td align="center"><a href="./module5">Go</a></td>
+      <td align="center"><a href="/module5">Go</a></td>
     </tr>
     <tr>
       <td align="center"><strong>Module 6</strong></td>
       <td align="left">Advanced work with command-line arguments, iterating over parameters, introduction to regular expressions (<code>re</code> module).</td>
-      <td align="center"><a href="./module6">Go</a></td>
+      <td align="center"><a href="/module6">Go</a></td>
     </tr>
     <tr>
       <td align="center"><strong>Module 7</strong></td>
       <td align="left">Treating strings as arrays, advanced string methods (<code>find</code>, <code>endswith</code>), generating number ranges (<code>range</code>).</td>
-      <td align="center"><a href="./module7">Go</a></td>
+      <td align="center"><a href="/module7">Go</a></td>
     </tr>
     <tr>
       <td align="center"><strong>Module 8</strong></td>
       <td align="left">Defining custom functions (methods), default parameters, variable scope, passing arguments.</td>
-      <td align="center"><a href="./module8">Go</a></td>
+      <td align="center"><a href="/module8">Go</a></td>
     </tr>
     <tr>
       <td align="center"><strong>Module 9</strong></td>
       <td align="left">Working with dictionaries (<code>dict</code>), sorting complex data structures (<code>sorted</code>, <code>key</code>), higher-order functions (<code>filter</code>, <code>map</code>), and lambda functions.</td>
-      <td align="center"><a href="./module9">Go</a></td>
+      <td align="center"><a href="/module9">Go</a></td>
     </tr>
   </tbody>
 </table>
